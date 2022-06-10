@@ -1,0 +1,87 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.32319.34
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Application", "Application", "{EE274DBB-FE97-471D-B5F9-74094E1620B8}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Domain", "Domain", "{A6016489-F251-4214-931C-07BE7820A75F}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Infrastructure", "Infrastructure", "{CB602A2F-765E-41AA-9851-5E4BAB78D724}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Tests", "Tests", "{64467852-848B-4E2F-939A-C79F564DFAB3}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PersiciFinancial.CustomerManagement.Test.Spec", "PersiciFinancial.CustomerManagement.Test.Spec\PersiciFinancial.CustomerManagement.Test.Spec.csproj", "{CEF421EE-837A-45E9-80E6-6986FABCEACD}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PersiciFinancial.CustomerManagement.Test.Unit", "PersiciFinancial.CustomerManagement.Test.Unit\PersiciFinancial.CustomerManagement.Test.Unit.csproj", "{5E24275A-871E-4B77-85BB-D6771ACEFE2F}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PersiciFinancial.CustomerManagement.Domain", "PersiciFinancial.CustomerManagement.Domain\PersiciFinancial.CustomerManagement.Domain.csproj", "{1222E787-F09B-4973-B8DB-F7BB179D7790}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Interfaces", "Interfaces", "{C34A7690-198C-4934-BF0C-15CFCD81C020}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PersiciFinancial.CustomerManagement.Interface.Facade", "PersiciFinancial.CustomerManagement.Interface.Facade\PersiciFinancial.CustomerManagement.Interface.Facade.csproj", "{EBFAA0AD-3F71-4BFF-B8B9-B0BAC3932B85}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PersiciFinancial.CustomerManagement.Application", "PersiciFinancial.CustomerManagement.Application\PersiciFinancial.CustomerManagement.Application.csproj", "{E0C415E9-149E-4540-930E-ADDACBCF67F1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PersiciFinancial.CustomerManagement.Application.Contracts", "PersiciFinancial.CustomerManagement.Application.Contracts\PersiciFinancial.CustomerManagement.Application.Contracts.csproj", "{DB707167-9958-4EED-A5B8-1E78470ACEF9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PersiciFinancial.CustomerManagement.Application.Unit", "PersiciFinancial.CustomerManagement.Application.Unit\PersiciFinancial.CustomerManagement.Application.Unit.csproj", "{7FCB599F-7E8B-4041-BD1B-F81B3B5A3BA6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PersiciFinancial.CustomerManagement.Persistence", "PersiciFinancial.CustomerManagement.Persistence\PersiciFinancial.CustomerManagement.Persistence.csproj", "{E1808E68-2DDC-4485-A6A8-E21385FC83C7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CEF421EE-837A-45E9-80E6-6986FABCEACD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CEF421EE-837A-45E9-80E6-6986FABCEACD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CEF421EE-837A-45E9-80E6-6986FABCEACD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CEF421EE-837A-45E9-80E6-6986FABCEACD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5E24275A-871E-4B77-85BB-D6771ACEFE2F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5E24275A-871E-4B77-85BB-D6771ACEFE2F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5E24275A-871E-4B77-85BB-D6771ACEFE2F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5E24275A-871E-4B77-85BB-D6771ACEFE2F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1222E787-F09B-4973-B8DB-F7BB179D7790}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1222E787-F09B-4973-B8DB-F7BB179D7790}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1222E787-F09B-4973-B8DB-F7BB179D7790}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1222E787-F09B-4973-B8DB-F7BB179D7790}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EBFAA0AD-3F71-4BFF-B8B9-B0BAC3932B85}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EBFAA0AD-3F71-4BFF-B8B9-B0BAC3932B85}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EBFAA0AD-3F71-4BFF-B8B9-B0BAC3932B85}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EBFAA0AD-3F71-4BFF-B8B9-B0BAC3932B85}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E0C415E9-149E-4540-930E-ADDACBCF67F1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E0C415E9-149E-4540-930E-ADDACBCF67F1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E0C415E9-149E-4540-930E-ADDACBCF67F1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E0C415E9-149E-4540-930E-ADDACBCF67F1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DB707167-9958-4EED-A5B8-1E78470ACEF9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DB707167-9958-4EED-A5B8-1E78470ACEF9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DB707167-9958-4EED-A5B8-1E78470ACEF9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DB707167-9958-4EED-A5B8-1E78470ACEF9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7FCB599F-7E8B-4041-BD1B-F81B3B5A3BA6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7FCB599F-7E8B-4041-BD1B-F81B3B5A3BA6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7FCB599F-7E8B-4041-BD1B-F81B3B5A3BA6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7FCB599F-7E8B-4041-BD1B-F81B3B5A3BA6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E1808E68-2DDC-4485-A6A8-E21385FC83C7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E1808E68-2DDC-4485-A6A8-E21385FC83C7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E1808E68-2DDC-4485-A6A8-E21385FC83C7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E1808E68-2DDC-4485-A6A8-E21385FC83C7}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{CEF421EE-837A-45E9-80E6-6986FABCEACD} = {64467852-848B-4E2F-939A-C79F564DFAB3}
+		{5E24275A-871E-4B77-85BB-D6771ACEFE2F} = {64467852-848B-4E2F-939A-C79F564DFAB3}
+		{1222E787-F09B-4973-B8DB-F7BB179D7790} = {A6016489-F251-4214-931C-07BE7820A75F}
+		{EBFAA0AD-3F71-4BFF-B8B9-B0BAC3932B85} = {C34A7690-198C-4934-BF0C-15CFCD81C020}
+		{E0C415E9-149E-4540-930E-ADDACBCF67F1} = {EE274DBB-FE97-471D-B5F9-74094E1620B8}
+		{DB707167-9958-4EED-A5B8-1E78470ACEF9} = {EE274DBB-FE97-471D-B5F9-74094E1620B8}
+		{7FCB599F-7E8B-4041-BD1B-F81B3B5A3BA6} = {EE274DBB-FE97-471D-B5F9-74094E1620B8}
+		{E1808E68-2DDC-4485-A6A8-E21385FC83C7} = {CB602A2F-765E-41AA-9851-5E4BAB78D724}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {787A8C30-9AB0-44B5-BCE7-F23BAF108300}
+	EndGlobalSection
+EndGlobal

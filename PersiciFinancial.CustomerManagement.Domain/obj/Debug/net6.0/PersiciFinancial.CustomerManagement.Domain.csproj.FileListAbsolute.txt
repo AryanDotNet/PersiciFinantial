@@ -1,0 +1,12 @@
+C:\Interview\PersiciFinancial\PersiciFinancial\PersiciFinancial.CustomerManagement.Domain\bin\Debug\net6.0\PersiciFinancial.CustomerManagement.Domain.deps.json
+C:\Interview\PersiciFinancial\PersiciFinancial\PersiciFinancial.CustomerManagement.Domain\bin\Debug\net6.0\PersiciFinancial.CustomerManagement.Domain.dll
+C:\Interview\PersiciFinancial\PersiciFinancial\PersiciFinancial.CustomerManagement.Domain\bin\Debug\net6.0\PersiciFinancial.CustomerManagement.Domain.pdb
+C:\Interview\PersiciFinancial\PersiciFinancial\PersiciFinancial.CustomerManagement.Domain\obj\Debug\net6.0\PersiciFinancial.CustomerManagement.Domain.csproj.AssemblyReference.cache
+C:\Interview\PersiciFinancial\PersiciFinancial\PersiciFinancial.CustomerManagement.Domain\obj\Debug\net6.0\PersiciFinancial.CustomerManagement.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Interview\PersiciFinancial\PersiciFinancial\PersiciFinancial.CustomerManagement.Domain\obj\Debug\net6.0\PersiciFinancial.CustomerManagement.Domain.AssemblyInfoInputs.cache
+C:\Interview\PersiciFinancial\PersiciFinancial\PersiciFinancial.CustomerManagement.Domain\obj\Debug\net6.0\PersiciFinancial.CustomerManagement.Domain.AssemblyInfo.cs
+C:\Interview\PersiciFinancial\PersiciFinancial\PersiciFinancial.CustomerManagement.Domain\obj\Debug\net6.0\PersiciFinancial.CustomerManagement.Domain.csproj.CoreCompileInputs.cache
+C:\Interview\PersiciFinancial\PersiciFinancial\PersiciFinancial.CustomerManagement.Domain\obj\Debug\net6.0\PersiciFinancial.CustomerManagement.Domain.dll
+C:\Interview\PersiciFinancial\PersiciFinancial\PersiciFinancial.CustomerManagement.Domain\obj\Debug\net6.0\refint\PersiciFinancial.CustomerManagement.Domain.dll
+C:\Interview\PersiciFinancial\PersiciFinancial\PersiciFinancial.CustomerManagement.Domain\obj\Debug\net6.0\PersiciFinancial.CustomerManagement.Domain.pdb
+C:\Interview\PersiciFinancial\PersiciFinancial\PersiciFinancial.CustomerManagement.Domain\obj\Debug\net6.0\ref\PersiciFinancial.CustomerManagement.Domain.dll

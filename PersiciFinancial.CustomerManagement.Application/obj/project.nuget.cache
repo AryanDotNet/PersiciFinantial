@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "vVyQdDodNRopWhz++9HWAnZKOwX2DiEFl61KA/ieawG1VxsWHKU2KcDRahDN6oVRUBZtBnL4w37PLkZ9bynRSw==",
+  "success": true,
+  "projectFilePath": "C:\\Interview\\PersiciFinancial\\PersiciFinancial\\PersiciFinancial.CustomerManagement.Application\\PersiciFinancial.CustomerManagement.Application.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\aryan\\.nuget\\packages\\fluentvalidation\\11.0.2\\fluentvalidation.11.0.2.nupkg.sha512",
+    "C:\\Users\\aryan\\.nuget\\packages\\libphonenumber-csharp\\8.12.49\\libphonenumber-csharp.8.12.49.nupkg.sha512",
+    "C:\\Users\\aryan\\.nuget\\packages\\system.collections.immutable\\1.7.1\\system.collections.immutable.1.7.1.nupkg.sha512"
+  ],
+  "logs": []
+}

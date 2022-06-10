@@ -1,0 +1,15 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net6.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\PersiciFinancial.CustomerManagement.Application.Contracts\PersiciFinancial.CustomerManagement.Application.Contracts.csproj" />
+    <ProjectReference Include="..\PersiciFinancial.CustomerManagement.Application\PersiciFinancial.CustomerManagement.Application.csproj" />
+    <ProjectReference Include="..\PersiciFinancial.CustomerManagement.Domain\PersiciFinancial.CustomerManagement.Domain.csproj" />
+  </ItemGroup>
+
+</Project>

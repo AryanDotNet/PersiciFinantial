@@ -1,0 +1,17 @@
+C:\Interview\PersiciFinancial\PersiciFinancial\PersiciFinancial.CustomerManagement.Application\bin\Debug\net6.0\PersiciFinancial.CustomerManagement.Application.deps.json
+C:\Interview\PersiciFinancial\PersiciFinancial\PersiciFinancial.CustomerManagement.Application\bin\Debug\net6.0\PersiciFinancial.CustomerManagement.Application.dll
+C:\Interview\PersiciFinancial\PersiciFinancial\PersiciFinancial.CustomerManagement.Application\bin\Debug\net6.0\PersiciFinancial.CustomerManagement.Application.pdb
+C:\Interview\PersiciFinancial\PersiciFinancial\PersiciFinancial.CustomerManagement.Application\bin\Debug\net6.0\PersiciFinancial.CustomerManagement.Application.Contracts.dll
+C:\Interview\PersiciFinancial\PersiciFinancial\PersiciFinancial.CustomerManagement.Application\bin\Debug\net6.0\PersiciFinancial.CustomerManagement.Domain.dll
+C:\Interview\PersiciFinancial\PersiciFinancial\PersiciFinancial.CustomerManagement.Application\bin\Debug\net6.0\PersiciFinancial.CustomerManagement.Application.Contracts.pdb
+C:\Interview\PersiciFinancial\PersiciFinancial\PersiciFinancial.CustomerManagement.Application\bin\Debug\net6.0\PersiciFinancial.CustomerManagement.Domain.pdb
+C:\Interview\PersiciFinancial\PersiciFinancial\PersiciFinancial.CustomerManagement.Application\obj\Debug\net6.0\PersiciFinancial.CustomerManagement.Application.csproj.AssemblyReference.cache
+C:\Interview\PersiciFinancial\PersiciFinancial\PersiciFinancial.CustomerManagement.Application\obj\Debug\net6.0\PersiciFinancial.CustomerManagement.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Interview\PersiciFinancial\PersiciFinancial\PersiciFinancial.CustomerManagement.Application\obj\Debug\net6.0\PersiciFinancial.CustomerManagement.Application.AssemblyInfoInputs.cache
+C:\Interview\PersiciFinancial\PersiciFinancial\PersiciFinancial.CustomerManagement.Application\obj\Debug\net6.0\PersiciFinancial.CustomerManagement.Application.AssemblyInfo.cs
+C:\Interview\PersiciFinancial\PersiciFinancial\PersiciFinancial.CustomerManagement.Application\obj\Debug\net6.0\PersiciFinancial.CustomerManagement.Application.csproj.CoreCompileInputs.cache
+C:\Interview\PersiciFinancial\PersiciFinancial\PersiciFinancial.CustomerManagement.Application\obj\Debug\net6.0\PersiciFinancial.CustomerManagement.Application.csproj.CopyComplete
+C:\Interview\PersiciFinancial\PersiciFinancial\PersiciFinancial.CustomerManagement.Application\obj\Debug\net6.0\PersiciFinancial.CustomerManagement.Application.dll
+C:\Interview\PersiciFinancial\PersiciFinancial\PersiciFinancial.CustomerManagement.Application\obj\Debug\net6.0\refint\PersiciFinancial.CustomerManagement.Application.dll
+C:\Interview\PersiciFinancial\PersiciFinancial\PersiciFinancial.CustomerManagement.Application\obj\Debug\net6.0\PersiciFinancial.CustomerManagement.Application.pdb
+C:\Interview\PersiciFinancial\PersiciFinancial\PersiciFinancial.CustomerManagement.Application\obj\Debug\net6.0\ref\PersiciFinancial.CustomerManagement.Application.dll

@@ -1,0 +1,12 @@
+C:\Interview\PersiciFinancial\PersiciFinancial\PersiciFinancial.CustomerManagement.Application.Contracts\bin\Debug\net6.0\PersiciFinancial.CustomerManagement.Application.Contracts.deps.json
+C:\Interview\PersiciFinancial\PersiciFinancial\PersiciFinancial.CustomerManagement.Application.Contracts\bin\Debug\net6.0\PersiciFinancial.CustomerManagement.Application.Contracts.dll
+C:\Interview\PersiciFinancial\PersiciFinancial\PersiciFinancial.CustomerManagement.Application.Contracts\bin\Debug\net6.0\PersiciFinancial.CustomerManagement.Application.Contracts.pdb
+C:\Interview\PersiciFinancial\PersiciFinancial\PersiciFinancial.CustomerManagement.Application.Contracts\obj\Debug\net6.0\PersiciFinancial.CustomerManagement.Application.Contracts.csproj.AssemblyReference.cache
+C:\Interview\PersiciFinancial\PersiciFinancial\PersiciFinancial.CustomerManagement.Application.Contracts\obj\Debug\net6.0\PersiciFinancial.CustomerManagement.Application.Contracts.GeneratedMSBuildEditorConfig.editorconfig
+C:\Interview\PersiciFinancial\PersiciFinancial\PersiciFinancial.CustomerManagement.Application.Contracts\obj\Debug\net6.0\PersiciFinancial.CustomerManagement.Application.Contracts.AssemblyInfoInputs.cache
+C:\Interview\PersiciFinancial\PersiciFinancial\PersiciFinancial.CustomerManagement.Application.Contracts\obj\Debug\net6.0\PersiciFinancial.CustomerManagement.Application.Contracts.AssemblyInfo.cs
+C:\Interview\PersiciFinancial\PersiciFinancial\PersiciFinancial.CustomerManagement.Application.Contracts\obj\Debug\net6.0\PersiciFinancial.CustomerManagement.Application.Contracts.csproj.CoreCompileInputs.cache
+C:\Interview\PersiciFinancial\PersiciFinancial\PersiciFinancial.CustomerManagement.Application.Contracts\obj\Debug\net6.0\PersiciFinancial.CustomerManagement.Application.Contracts.dll
+C:\Interview\PersiciFinancial\PersiciFinancial\PersiciFinancial.CustomerManagement.Application.Contracts\obj\Debug\net6.0\refint\PersiciFinancial.CustomerManagement.Application.Contracts.dll
+C:\Interview\PersiciFinancial\PersiciFinancial\PersiciFinancial.CustomerManagement.Application.Contracts\obj\Debug\net6.0\PersiciFinancial.CustomerManagement.Application.Contracts.pdb
+C:\Interview\PersiciFinancial\PersiciFinancial\PersiciFinancial.CustomerManagement.Application.Contracts\obj\Debug\net6.0\ref\PersiciFinancial.CustomerManagement.Application.Contracts.dll

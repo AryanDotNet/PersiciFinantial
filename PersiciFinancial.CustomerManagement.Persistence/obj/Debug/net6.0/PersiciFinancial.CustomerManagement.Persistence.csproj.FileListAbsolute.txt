@@ -1,0 +1,17 @@
+C:\Interview\PersiciFinancial\PersiciFinancial\PersiciFinancial.CustomerManagement.Persistence\bin\Debug\net6.0\PersiciFinancial.CustomerManagement.Persistence.deps.json
+C:\Interview\PersiciFinancial\PersiciFinancial\PersiciFinancial.CustomerManagement.Persistence\bin\Debug\net6.0\PersiciFinancial.CustomerManagement.Persistence.runtimeconfig.json
+C:\Interview\PersiciFinancial\PersiciFinancial\PersiciFinancial.CustomerManagement.Persistence\bin\Debug\net6.0\PersiciFinancial.CustomerManagement.Persistence.dll
+C:\Interview\PersiciFinancial\PersiciFinancial\PersiciFinancial.CustomerManagement.Persistence\bin\Debug\net6.0\PersiciFinancial.CustomerManagement.Persistence.pdb
+C:\Interview\PersiciFinancial\PersiciFinancial\PersiciFinancial.CustomerManagement.Persistence\bin\Debug\net6.0\PersiciFinancial.CustomerManagement.Domain.dll
+C:\Interview\PersiciFinancial\PersiciFinancial\PersiciFinancial.CustomerManagement.Persistence\bin\Debug\net6.0\PersiciFinancial.CustomerManagement.Domain.pdb
+C:\Interview\PersiciFinancial\PersiciFinancial\PersiciFinancial.CustomerManagement.Persistence\obj\Debug\net6.0\PersiciFinancial.CustomerManagement.Persistence.csproj.AssemblyReference.cache
+C:\Interview\PersiciFinancial\PersiciFinancial\PersiciFinancial.CustomerManagement.Persistence\obj\Debug\net6.0\PersiciFinancial.CustomerManagement.Persistence.GeneratedMSBuildEditorConfig.editorconfig
+C:\Interview\PersiciFinancial\PersiciFinancial\PersiciFinancial.CustomerManagement.Persistence\obj\Debug\net6.0\PersiciFinancial.CustomerManagement.Persistence.AssemblyInfoInputs.cache
+C:\Interview\PersiciFinancial\PersiciFinancial\PersiciFinancial.CustomerManagement.Persistence\obj\Debug\net6.0\PersiciFinancial.CustomerManagement.Persistence.AssemblyInfo.cs
+C:\Interview\PersiciFinancial\PersiciFinancial\PersiciFinancial.CustomerManagement.Persistence\obj\Debug\net6.0\PersiciFinancial.CustomerManagement.Persistence.csproj.CoreCompileInputs.cache
+C:\Interview\PersiciFinancial\PersiciFinancial\PersiciFinancial.CustomerManagement.Persistence\obj\Debug\net6.0\PersiciFinancial.CustomerManagement.Persistence.csproj.CopyComplete
+C:\Interview\PersiciFinancial\PersiciFinancial\PersiciFinancial.CustomerManagement.Persistence\obj\Debug\net6.0\PersiciFinancial.CustomerManagement.Persistence.dll
+C:\Interview\PersiciFinancial\PersiciFinancial\PersiciFinancial.CustomerManagement.Persistence\obj\Debug\net6.0\refint\PersiciFinancial.CustomerManagement.Persistence.dll
+C:\Interview\PersiciFinancial\PersiciFinancial\PersiciFinancial.CustomerManagement.Persistence\obj\Debug\net6.0\PersiciFinancial.CustomerManagement.Persistence.pdb
+C:\Interview\PersiciFinancial\PersiciFinancial\PersiciFinancial.CustomerManagement.Persistence\obj\Debug\net6.0\PersiciFinancial.CustomerManagement.Persistence.genruntimeconfig.cache
+C:\Interview\PersiciFinancial\PersiciFinancial\PersiciFinancial.CustomerManagement.Persistence\obj\Debug\net6.0\ref\PersiciFinancial.CustomerManagement.Persistence.dll
