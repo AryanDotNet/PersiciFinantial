@@ -18,7 +18,15 @@ namespace PersiciFinancial.CustomerManagement.Test.Unit
             var email = "aryanpour.dev@gmail.com";
             var bankAccountNumber = "202305060847";
 
-            var customer = new Customer(firstName, lastName, dateOfBirth, phoneNumber, email, bankAccountNumber);
+
+            var builder = new CustomerTestBuilder()
+                .WithFirstName(firstName)
+                .WithLastName(lastName)
+                .WithDateOfBirth(dateOfBirth)
+                .WithPhoneNumber(phoneNumber)
+                .WithEmail(email);
+
+            var customer = builder.Build();
 
             customer.FirstName.Should().Be(firstName);
             customer.LastName.Should().Be(lastName);
@@ -35,13 +43,9 @@ namespace PersiciFinancial.CustomerManagement.Test.Unit
         public void Cunstructor_should_throw_exception_when_mobile_is_not_valid(string invalidMobileNumber)
         {
             var phoneNumber = invalidMobileNumber;
-            var firstName = "Mohammad";
-            var lastName = "Aryanpour";
-            var dateOfBirth = DateTime.Parse("09/04/1987");
-            var email = "aryanpour.dev@gmail.com";
-            var bankAccountNumber = "202305060847";
+            var builder = new CustomerTestBuilder().WithPhoneNumber(invalidMobileNumber);
 
-            Action customer = () => new Customer(firstName, lastName, dateOfBirth, phoneNumber, email, bankAccountNumber);
+            Action customer = () => builder.Build();
 
             customer.Should().Throw<InvalidMobileNumberException>();
         }

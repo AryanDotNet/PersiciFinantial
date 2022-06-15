@@ -114,5 +114,3 @@ C:\Interview\PersiciFinancial\PersiciFinancial\PersiciFinancial.CustomerManageme
 C:\Interview\PersiciFinancial\PersiciFinancial\PersiciFinancial.CustomerManagement.Application.Unit\obj\Debug\net6.0\PersiciFinancial.CustomerManagement.Application.Unit.pdb
 C:\Interview\PersiciFinancial\PersiciFinancial\PersiciFinancial.CustomerManagement.Application.Unit\obj\Debug\net6.0\PersiciFinancial.CustomerManagement.Application.Unit.genruntimeconfig.cache
 C:\Interview\PersiciFinancial\PersiciFinancial\PersiciFinancial.CustomerManagement.Application.Unit\obj\Debug\net6.0\ref\PersiciFinancial.CustomerManagement.Application.Unit.dll
-C:\Interview\PersiciFinancial\PersiciFinancial\PersiciFinancial.CustomerManagement.Application.Unit\bin\Debug\net6.0\Faker.Net.6.0.dll
-C:\Interview\PersiciFinancial\PersiciFinancial\PersiciFinancial.CustomerManagement.Application.Unit\bin\Debug\net6.0\de-DE\Faker.Net.6.0.resources.dll
