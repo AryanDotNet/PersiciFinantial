@@ -35,7 +35,7 @@ namespace PersiciFinancial.CustomerManagement.Test.Unit
             customer.Email.Should().Be(email);
             customer.BankAccountNumber.Should().Be(bankAccountNumber);
         }
-
+        // this comment is a test for checking pull request
         [Theory]
         [InlineData("+98912758417")]
         [InlineData("989127584170")]
